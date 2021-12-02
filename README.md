@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="100%" src="./banner.png">
 
 
 <!--
